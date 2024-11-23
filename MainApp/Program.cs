@@ -1,5 +1,11 @@
-﻿
-Console.WriteLine("Hej");
+﻿Console.WriteLine("Hej och välkommen");
+Console.WriteLine("Var vänligen och fyll i informationen här nedan.";
 
-Console.ReadLine();
+Console.Write("Förnamn:");
+string firstName = Console.ReadLine()!;
+
+Console.Write("Efternamn:");
+string lastName = Console.ReadLine()!;
+
+
 
