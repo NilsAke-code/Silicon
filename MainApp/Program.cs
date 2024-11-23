@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Ange förnamn:");
+Console.WriteLine("Hej");
 
 Console.ReadLine();
 
